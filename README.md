@@ -3,8 +3,7 @@
 ---
 Dependecies
 ---
-- html
-- css
+js tests
 
 ---
 Project Tasks
