@@ -1,6 +1,6 @@
 # Survey Form
 
-![Sample image](https://github.com/Ellyboi/elijah-judah/tree/main/img/background.png)
+![Sample image](https://github.com/Ellyboi/elijah-judah/blob/feature_branch/img/background.png)
 ---
 Dependecies
 ---
